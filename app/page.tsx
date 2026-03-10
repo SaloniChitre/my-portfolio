@@ -46,7 +46,7 @@ export default function Home() {
           {/* Subtle glow effect behind the image */}
           <div className="absolute -inset-1 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl opacity-30 blur"></div>
           <img 
-            src="/Saloni.jpg" 
+            src="/saloni.jpg" 
             alt="Saloni Chitre" 
             className="relative w-64 h-64 rounded-2xl shadow-2xl object-contain bg-slate-900 border border-slate-700/50"
           />
