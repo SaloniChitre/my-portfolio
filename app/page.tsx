@@ -15,10 +15,10 @@ export default function Home() {
   const navLinks = ["About", "Experience", "Skills", "Projects", "Interests"];
   
   const contactLinks = [
-    { name: "LinkedIn", icon: <Linkedin size={20} />, href: "https://linkedin.com/in/yourprofile", color: "hover:text-blue-500 hover:shadow-[0_0_15px_rgba(59,130,246,0.5)]" },
+    { name: "LinkedIn", icon: <Linkedin size={20} />, href: "https://linkedin.com/in/saloni-chitre", color: "hover:text-blue-500 hover:shadow-[0_0_15px_rgba(59,130,246,0.5)]" },
     { name: "GitHub", icon: <Github size={20} />, href: "https://github.com/SaloniChitre", color: "hover:text-purple-500 hover:shadow-[0_0_15px_rgba(168,85,247,0.5)]" },
     { name: "Email", icon: <Mail size={20} />, href: "mailto:saloni.chitre@pace.edu", color: "hover:text-orange-500 hover:shadow-[0_0_15px_rgba(249,115,22,0.5)]" },
-    { name: "Phone", icon: <Phone size={20} />, href: "tel:+1234567890", color: "hover:text-green-500 hover:shadow-[0_0_15px_rgba(34,197,94,0.5)]" },
+    { name: "Phone", icon: <Phone size={20} />, href: "tel:+15513641955", color: "hover:text-green-500 hover:shadow-[0_0_15px_rgba(34,197,94,0.5)]" },
   ];
 
   const hobbies = [
